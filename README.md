@@ -41,7 +41,7 @@ Check out my pinned repositories below for examples of:
 
 ## 📊 GitHub Stats
 
-![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bragic&show_icons=true&theme=dark&hide=contribs)
+![Brad's GitHub stats]([https://github-readme-stats.vercel.app/api?username=bragic&show_icons=true&theme=dark&hide=contribs](https://github-readme-stats-phi-six-42.vercel.app/api?username=bragic&show_icons=true&theme=dark&hide=contribs))
 
 ---
 
